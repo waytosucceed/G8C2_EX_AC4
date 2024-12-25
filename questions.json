@@ -1,0 +1,68 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Find the sum of A, B and C, here D is a multiple of 3 ?<br><img width='55%' src='./assests/images/1.png'>",
+    "options": [
+      "102",
+      "120",
+      "104",
+      "140"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q2",
+    "question": "A company wants to distribute 168 pens, 252 pencils, and 336 erasers equally among the greatest number of employees, ensuring each employee gets the same quantity of each item. How many employees can receive the items, and how many of each item will they get?",
+    "options": [
+      "84, 3, 4, 5",
+      "72, 8 ,9",
+      " 84, 2, 3, 4",
+      "68, 12, 13, 15"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q3",
+    "question": "A number 14x is divisible by 11. What is the value of x?",
+    "options": [
+      "3",
+      "5",
+      "8",
+      "9"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q4",
+    "question": "If the number 2345p60q is exactly divisible by 3 and 5, then the maximum value of p + q is ______.",
+    "options": [
+      "12",
+      "11",
+      "14",
+      "15"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q5",
+    "question": "The absolute value of |x - 2| + |x + 2|, <br>if 0 < x < 2 is  _____.",
+    "options": [
+      "2x",
+      "4",
+      "2(x + 1)",
+      "0"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q6",
+    "question": "If 1 ≤ k ≤ 25, then how many prime numbers are there which are of the form 6k + 1?",
+    "options": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "correct": 1
+  }
+]
